@@ -7,8 +7,11 @@
 * Field Services
 ** TODO Update Gary on operations plan
 * Deployment
-** TODO Mark up current weekly workstation report
+** DONE Mark up current weekly workstation report
+   CLOSED: [2016-10-26 Wed 15:19]
+** TODO Schedule review meeting for weekly workstation report review
 ** TODO RACI Status
+
 * Solutions Engineering
 ** TODO Brainstorm MLO Onboarding options
 ** TODO Review MLO Application Access Onboarding
@@ -23,9 +26,10 @@
 ** TODO Collect iRecruit Numbers
 *** TODO 12667 - Dyer Backfill
 *** TODO 12271 - Vulnerability Contractor Flip
-*** TODO - Vulnerability Contractor Flip
-*** - Exchange Backfill
-*** - Skype Backfill
+*** TODO 12223 - Vulnerability Contractor Flip
+*** TODO - Exchange Backfill
+*** TODO - Skype Backfill
+*** TODO - Keotah Backfill
 ** TODO Create Standard Titles & Job Descriptions
 ** TODO EUC Training plan
 
