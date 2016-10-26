@@ -15,14 +15,22 @@
 * Risk Management
 ** TODO Schedule Weekly Meeting
 ** TODO Produce Review Schedule
-** TODO Communicate Access Review vs. SOX
+** DONE Communicate Access Review vs. SOX
+   CLOSED: [2016-10-26 Wed 13:46]
 * Project Review
 * HR
 ** TODO Schedule Year End Review
 ** TODO Collect iRecruit Numbers
+*** TODO 12667 - Dyer Backfill
+*** TODO 12271 - Vulnerability Contractor Flip
+*** TODO - Vulnerability Contractor Flip
+*** - Exchange Backfill
+*** - Skype Backfill
 ** TODO Create Standard Titles & Job Descriptions
 ** TODO EUC Training plan
+
 * Finance
 ** TODO Review 2017 budget draft 
+** TODO Schedule Microsoft Renewal Meeting
 * Info Sec
 ** TODO Microsoft / MFA status with Marvin
