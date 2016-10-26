@@ -1,0 +1,28 @@
+* Service Engineering
+** TODO RACI Status
+* Repeatable Engineering
+** TODO RACI Status
+* Collaboration
+** TODO Review Current monthly reporting status
+* Field Services
+** TODO Update Gary on operations plan
+* Deployment
+** TODO Mark up current weekly workstation report
+** TODO RACI Status
+* Solutions Engineering
+** TODO Brainstorm MLO Onboarding options
+** TODO Review MLO Application Access Onboarding
+* Risk Management
+** TODO Schedule Weekly Meeting
+** TODO Produce Review Schedule
+** TODO Communicate Access Review vs. SOX
+* Project Review
+* HR
+** TODO Schedule Year End Review
+** TODO Collect iRecruit Numbers
+** TODO Create Standard Titles & Job Descriptions
+** TODO EUC Training plan
+* Finance
+** TODO Review 2017 budget draft 
+* Info Sec
+** TODO Microsoft / MFA status with Marvin

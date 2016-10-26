@@ -1,0 +1,6 @@
+* Hero Management
+You manage a team of superheros as they work to save the world!
+
+* Art
+Colorful simple art style
+** TODO Review [[kenney.nl]] art assets.  Looks like decent temp art 

@@ -1,0 +1,9 @@
+* 1:1
+** TODO Review Org Charts
+** TODO Produce December, January, March org charts
+** TODO Discuss Job Opportunity's
+** TODO Update Insight Reporting Status
+** DONE NetIQ Risk Update
+   CLOSED: [2016-10-22 Sat 09:00]
+** TODO Will 2 HEF Colleagues report to EUC After 1/1?
+** TODO When will communication to HEF on org changes occur?
