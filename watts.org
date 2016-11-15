@@ -5,5 +5,23 @@
 ** TODO Update Insight Reporting Status
 ** DONE NetIQ Risk Update
    CLOSED: [2016-10-22 Sat 09:00]
-** TODO Will 2 HEF Colleagues report to EUC After 1/1?
+** DONE Will 2 HEF Colleagues report to EUC After 1/1? - Plan is Yes
+   CLOSED: [2016-10-24 Mon 11:02]
 ** TODO When will communication to HEF on org changes occur?
+** DONE Discuss TRC non-commitee membership
+   CLOSED: [2016-11-07 Mon 09:36]
+** DONE Review AD Status
+   CLOSED: [2016-11-07 Mon 09:36]
+** DONE Review AML/BSA Status
+   CLOSED: [2016-11-07 Mon 09:40]
+** DONE Sign up for QSR starting in Q3
+   CLOSED: [2016-11-07 Mon 09:42]
+** TODO Zero day and potentail impacts
+*** Determine FMER Timeline
+** TODO FMER Teller IPE
+*** TODO Follow up with Vince
+** TODO BYOD Update
+** TODO HR Update
+** TODO Windows 10 Update
+** TODO VDI - Roles & Cloud
+

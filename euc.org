@@ -1,9 +1,50 @@
 * Service Engineering
 ** TODO RACI Status
+** TODO Implement Quarterly Service Reviews (QSR's)
+*** TODO Schedule initial meetings
+*** TODO Communicate goal of meetings to RTM's
+*** TODO Solicate volenteers to assit
+*** TODO Create Template
+**** Service Overview
+***** Who uses the service
+***** What do they use it for
+***** What is the criticaly of the service
+***** What is the RTO / RTA
+**** Usage
+***** How much is the service used
+***** What are the key elements to track
+***** What are the usage patterns
+**** Performance
+***** How is the application performing
+***** When does performance become an issue
+***** How satisfied are the customers of the service
+***** Performance improvement options
+**** Risk
+***** Access Review Status
+***** DR Testing Status
+***** Finding / Action Plan / Risk Acceptance status
+**** Finance
+***** Cost to provide service
+***** Cost per colleague / device
+***** What drives cost (new colleagues, new accounts, new devices, etc)
+***** Suggestions to reduce cost
+**** Roadmap
+***** Current Architecture
+****** Resiclency pattern
+****** Redundacne pattern
+****** Recovery pattern
+***** Planned Architecture
+***** Timeline for changes
+***** Current status
+***** Projects underway
+***** Approved projects
+***** Unapproved projects
 * Repeatable Engineering
 ** TODO RACI Status
 * Collaboration
 ** TODO Review Current monthly reporting status
+** TODO Define wave 1 reporting enhancements
+** TODO Define wave 1 operational datamart
 * Field Services
 ** TODO Update Gary on operations plan
 * Deployment
@@ -16,13 +57,22 @@
 ** TODO Brainstorm MLO Onboarding options
 ** TODO Review MLO Application Access Onboarding
 * Risk Management
-** TODO Schedule Weekly Meeting
+** DONE Schedule Weekly Meeting
+   CLOSED: [2016-10-28 Fri 08:10]
 ** TODO Produce Review Schedule
+** TODO How do we escalate Dell Reporter issues
+** TODO Create Risk Reporting
+*** TODO Find current risk team reporting
 ** DONE Communicate Access Review vs. SOX
    CLOSED: [2016-10-26 Wed 13:46]
+** TODO Why was Print Services only a 3 day DR Test?
+*** Because it was a incident, rather than a planned test
 * Project Review
+** TODO Locate current project reporting
+** TODO Determine if changes needed to project reporting
 * HR
 ** TODO Schedule Year End Review
+** TODO Schedule 1:1
 ** TODO Collect iRecruit Numbers
 *** TODO 12667 - Dyer Backfill
 *** TODO 12271 - Vulnerability Contractor Flip
@@ -32,9 +82,16 @@
 *** TODO - Keotah Backfill
 ** TODO Create Standard Titles & Job Descriptions
 ** TODO EUC Training plan
-
+*** TODO Can we convert DPE hours to training?
+*** TODO Design training need tracking process
+*** TODO Determine reporting needs
+** Colleague Satisfaction
+*** Voice Survey
+*** What other options do we have
 * Finance
 ** TODO Review 2017 budget draft 
 ** TODO Schedule Microsoft Renewal Meeting
+** TODO Educate Watts on Follow me print quote ($52K, cover Easton and Project Columbus)
 * Info Sec
 ** TODO Microsoft / MFA status with Marvin
+

@@ -2,5 +2,15 @@
 You manage a team of superheros as they work to save the world!
 
 * Art
-Colorful simple art style
-** TODO Review [[kenney.nl]] art assets.  Looks like decent temp art 
+Colorful simple art style.  Comic book fonts.
+** DONE Review [[kenney.nl]] art assets.  Looks like decent temp art 
+   CLOSED: [2016-11-08 Tue 14:52]
+** TODO Find font pack
+** TODO Find superhero art
+* Prototype
+** TODO Build first alpha prototype
+*** TODO Create initial board
+*** TODO Create initial characer cards 
+*** TODO Create initial villain cards
+*** TODO Create initial plot cards
+*** TODO Create initial event cards

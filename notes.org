@@ -1,0 +1,4 @@
+* Tasks
+** TODO Operational Datamart 
+   [2016-10-28 Fri]
+   [[file:~/org/euc.org::*Define%20wave%201%20operational%20datamart][Define wave 1 operational datamart]]
