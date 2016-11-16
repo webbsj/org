@@ -1,10 +1,12 @@
 * Service Engineering
 ** TODO RACI Status
+** TODO MLO PC Build Process status
 ** TODO Implement Quarterly Service Reviews (QSR's)
 *** TODO Schedule initial meetings
 *** TODO Communicate goal of meetings to RTM's
 *** TODO Solicate volenteers to assit
-*** TODO Create Template
+*** DONE Create Template
+    CLOSED: [2016-11-16 Wed 10:02]
 **** Service Overview
 ***** Who uses the service
 ***** What do they use it for
@@ -42,8 +44,10 @@
 * Repeatable Engineering
 ** TODO RACI Status
 * Collaboration
-** TODO Review Current monthly reporting status
-** TODO Define wave 1 reporting enhancements
+** DONE Review Current monthly reporting status
+   CLOSED: [2016-11-16 Wed 10:18]
+** DONE Define wave 1 reporting enhancements
+   CLOSED: [2016-11-16 Wed 10:18]
 ** TODO Define wave 1 operational datamart
 * Field Services
 ** TODO Update Gary on operations plan
